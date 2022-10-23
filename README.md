@@ -2,7 +2,7 @@
 <h3 align="center"><b>Fresher | Coder | Open source enthusiast | Cloud enthusiast</b>.</h3>
 
 
--  I’m pursuing *B.E from CSE from,<br><pre>CANARA ENGINEERING COLLEGE,<br> BENJANA PADAVU, MANGLORE.*</pre>
+-  I’m pursuing *B.E from CSE from,<br><pre>CANARA ENGINEERING COLLEGE, MANGLORE.<br> *</pre>
 
 - 🌱 I’m currently learning Cloud, iOS Mobile Application Development
 
