@@ -35,5 +35,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvind007&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="elvind007" /></p>
 <p><a href="http://www.github.com/elvind007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elvind007&theme=tokyonight&locale=en" /></a></p>
 
-![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KryptonGuy&theme=radical)                                                          
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonGuy&langs_count=8&theme=radical&layout=compact)
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elvind007&theme=radical)                                                          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvind007&langs_count=8&theme=radical&layout=compact)
