@@ -31,8 +31,7 @@
 <br>
 <h3>My Github Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvind007&show_icons=true&theme=tokyonight&locale=en" alt="elvind007" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvind007&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="elvind007" /></p>
+
 
 [![@elvind's Holopin board](https://holopin.me/elvind)](https://holopin.io/@elvind)
 
