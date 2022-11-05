@@ -2,11 +2,9 @@
 <h3 align="center"><b>Fresher | Coder | Open source enthusiast | Cloud enthusiast</b>.</h3>
 
 
--  I’m pursuing *B.E in CSE from CANARA ENGINEERING COLLEGE, MANGLORE.
+-  I’m pursuing *B.E in CSE.
 
-- 🌱 I’m currently learning Cloud, iOS Mobile Application Development
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+- 🌱 I’m currently learning Cloud, iOS Mobile Application Development, nd BLOCKCHAIN DEVELOPMENT/
 
 - 📫 Reach me on *emdd007@gmail.com* 
 
