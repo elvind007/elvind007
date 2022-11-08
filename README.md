@@ -4,7 +4,7 @@
 
 -  I’m pursuing *B.E in CSE.
 
-- 🌱 I’m currently learning Cloud, iOS Mobile Application Development, nd BLOCKCHAIN DEVELOPMENT/
+- 🌱 I’m currently learning Cloud, iOS Mobile Application Development, and BLOCKCHAIN 
 
 - 📫 Reach me on *emdd007@gmail.com* 
 
