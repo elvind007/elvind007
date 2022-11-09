@@ -12,6 +12,7 @@
 <a href="http://www.instagram.com/elvin.d_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href = 'https://twitter.com/Elvin_dsouza'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
+<!---
 <h2></h2>
 <h3>Languages and Tools :</h3>
 <h2>
@@ -24,6 +25,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 </h2>
+
+-->
 
 
 <br>
