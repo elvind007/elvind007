@@ -8,8 +8,8 @@
 
 - 📫 Reach me on *emdd007@gmail.com* 
 
-![](https://komarev.com/ghpvc/?username=elvind007&label=PROFILE+VIEWS)
 
+![](https://komarev.com/ghpvc/?username=elvind007&label=PROFILE+VIEWS)
 <a href = 'https://www.linkedin.com/in/elvin-dsouza/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="http://www.instagram.com/elvin.d_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href = 'https://twitter.com/Elvin_dsouza'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
