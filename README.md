@@ -2,10 +2,6 @@
 <h3 align="center"><b>Fresher | Coder | Open source enthusiast | Cloud enthusiast</b>.</h3>
 
 
--  I’m pursuing *B.E in CSE.
-
-- 🌱 I’m currently learning Cloud, iOS Mobile Application Development, and BLOCKCHAIN 
-
 - 📫 Reach me on *emdd007@gmail.com* 
 
 
@@ -42,11 +38,6 @@
 
 
 
-
-<h3>Enjoy this song from Chainsaw Man :) </h3>
-
-
-https://user-images.githubusercontent.com/64885297/200122662-58528aaf-aada-4552-988b-85170caf6875.mp4
 
 
 
